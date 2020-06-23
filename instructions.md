@@ -27,8 +27,8 @@ touch style.css
 - This
 - is
 - an
-    -unordered
-    -list
+    - unordered
+    - list
         - of
         - things
 
